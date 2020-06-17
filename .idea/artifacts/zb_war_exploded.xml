@@ -1,6 +1,0 @@
-<component name="ArtifactManager">
-  <artifact name="zb:war exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/zb_war_exploded</output-path>
-    <root id="root" />
-  </artifact>
-</component>
